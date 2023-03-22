@@ -27,5 +27,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinomacri&label=Profile%20views&color=0e75b6&style=flat" alt="pinomacri" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pino-macr%C3%AC-9a250723b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pino macrì" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pino-macr%C3%AC-9a250723b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pino macrì" height="20" width="30" /></a>
 </p>
