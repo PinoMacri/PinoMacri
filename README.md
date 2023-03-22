@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Pino</h1>
-<h3 align="center">Jr Full-Stack Developer</h3>
+<p>Jr Full-Stack Developer</p>
 
 
 
